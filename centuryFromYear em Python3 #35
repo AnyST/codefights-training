@@ -1,0 +1,8 @@
+'''
+@AnyST - Daniele Patrícia
+ @Python 3.6.4
+'''
+
+import math
+def centuryFromYear(year):
+    return math.ceil(year/100)
